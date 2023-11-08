@@ -27,13 +27,13 @@ bash file_management.sh
 ```
 * Follow the on-screen instructions to perform various file management operations.
 
-##Features
+## Features
 * Create, delete, and rename files and directories.
 * Search for files in the current directory.
 * User-friendly interface for easy navigation.
 * Shell script provides additional file management capabilities.
 
-##Screenshots
+## Screenshots
 * Home Screen Interface
 ![image](https://github.com/RushikX/file_management_system/assets/111432352/e4f189fb-b343-41b3-9784-349d24d524ca)
 
