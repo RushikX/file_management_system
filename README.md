@@ -12,13 +12,34 @@ This project is a file management system implemented in Shell Scripting and C. I
 1. Clone the repository to your local machine using the following command:
    ```bash
    git clone <repository-url>
+   ```
 2.Navigate to the project directory using the terminal:
-   ```cd "path for Project-File-Management-System"
+   ```
+   cd "path for Project-File-Management-System"
+   ```
 ## Usage
 File Management Operations (Shell Script):
 
-To manage files using Shell Script, run the following command in the terminal:
+* To manage files using Shell Script, run the following command in the terminal:
 
-```bash file_management.sh
-Follow the on-screen instructions to perform various file management operations.
+```
+bash file_management.sh
+```
+* Follow the on-screen instructions to perform various file management operations.
+
+##Features
+* Create, delete, and rename files and directories.
+* Search for files in the current directory.
+* User-friendly interface for easy navigation.
+* Shell script provides additional file management capabilities.
+
+##Screenshots
+* Home Screen Interface
+![image](https://github.com/RushikX/file_management_system/assets/111432352/e4f189fb-b343-41b3-9784-349d24d524ca)
+
+
+
+
+
+  
 
